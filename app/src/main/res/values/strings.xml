@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="button_1_text">Save</string>
+    <string name="button_2_text">Done</string>
+    <string name="item_editText_hint">Write a new item</string>
+    <string name="NICE">Saved</string>
+    <string name="WRONG">Text min length is 3 and max 15</string>
+</resources>
